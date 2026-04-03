@@ -1,0 +1,10 @@
+# compiled output
+*.o
+*.a
+mikush
+
+# editor
+.vscode/
+.cache/
+compile_commands.json
+EOF
