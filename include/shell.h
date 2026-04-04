@@ -3,7 +3,7 @@
 
 #include "base.h"
 
-#define MIKUSH_VERSION "0.1.0"
+#define MIKUSH_VERSION "0.0.1"
 #define MIKUSH_HISTORY "~/.mikush_history"
 #define MIKUSH_RC      "~/.mikushrc"
 #define MAX_ARGS       128

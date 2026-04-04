@@ -3,6 +3,9 @@
 *.a
 mikush
 
+
+.claude
+
 # editor
 .vscode/
 .cache/
